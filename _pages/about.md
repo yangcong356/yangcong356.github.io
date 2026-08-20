@@ -11,7 +11,7 @@ I am a Ph.D. Student in School of Computer Science at Wuhan University, supervis
 <span style="color: #a61b1b; font-weight: 600;">Multimodal Reasoning</span>, and 
 <span style="color: #a61b1b; font-weight: 600;">Text-to-Image Generation</span>.I am open to research collaborations. Please feel free to contact me if you are interested in my work.
 
-📑Selected Publications
+📑 Selected Publications
 ======
 
 <div class="paper-box">
