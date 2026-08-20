@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Cong Yang"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : "Cong Yang"
 description              : "PhD Candidate at Wuhan University"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,8 +24,8 @@ repository               : "yangcong356/yangcong356.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Cong Yang"
+  pronouns         : "杨聪"
   bio              : "PhD Candidate at Wuhan University. Working on multimodal understanding, generation, and reasoning."
   location         : "Wuhan, China"
   employer         : "Wuhan University"
