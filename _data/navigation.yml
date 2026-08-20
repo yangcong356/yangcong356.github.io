@@ -24,7 +24,8 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/CongYang-CV-v2.pdf
+    # url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
