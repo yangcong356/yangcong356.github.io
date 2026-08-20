@@ -24,9 +24,9 @@ repository               : "yangcong356/yangcong356.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Cong Yang"
-  pronouns         : "杨聪"
-  bio              : "PhD Candidate at Wuhan University. Working on multimodal understanding, generation, and reasoning."
+  name             : "Cong Yang /杨聪"
+  pronouns         : ""
+  bio              : ""
   location         : "Wuhan, China"
   employer         : "Wuhan University"
   uri              : # URL
