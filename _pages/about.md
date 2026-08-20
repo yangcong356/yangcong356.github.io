@@ -18,7 +18,10 @@ I am a Ph.D. Student in School of Computer Science at Wuhan University, supervis
   <div class="paper-box-image">
     <div>
       <div class="badge">IEEE TIP'25</div>
-      <img src="/images/publications/kcfi.png" alt="sym">
+      <img
+        src="{{ '/images/publications/kcfi.png' | relative_url }}"
+        alt="KCFI framework"
+      >
     </div>
   </div>
 
@@ -31,4 +34,5 @@ Enhancing Perception of Key Changes in Remote Sensing Image Change Captioning
 [PDF](https://ieeexplore.ieee.org/abstract/document/11087517) \| [Code](https://github.com/yangcong356/KCFI.git)
 
   </div>
+
 </div>
