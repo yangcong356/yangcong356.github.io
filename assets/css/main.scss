@@ -37,3 +37,100 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Publication card */
+.page__content .paper-box {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 2rem;
+
+  width: 100%;
+  margin: 1.5rem 0 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+/* Left image */
+.page__content .paper-box-image {
+  flex: 0 0 42%;
+  width: 42%;
+  max-width: 42%;
+}
+
+.page__content .paper-box-image > div {
+  position: relative;
+  width: 100%;
+}
+
+.page__content .paper-box-image img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
+  border-radius: 3px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.16);
+}
+
+/* Badge on the image */
+.page__content .paper-box .badge {
+  position: absolute;
+  top: 14px;
+  left: -12px;
+  z-index: 10;
+
+  display: inline-block;
+  padding: 8px 18px;
+
+  color: #ffffff;
+  background: #0645b5;
+  font-size: 0.82rem;
+  font-weight: 600;
+  line-height: 1.2;
+  white-space: nowrap;
+
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.18);
+}
+
+/* Right text */
+.page__content .paper-box-text {
+  flex: 1 1 58%;
+  min-width: 0;
+}
+
+.page__content .paper-box-text p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  line-height: 1.65;
+}
+
+.page__content .paper-box-text p:first-child a {
+  color: #204d91;
+  font-weight: 700;
+  line-height: 1.45;
+}
+
+/* Mobile layout */
+@media screen and (max-width: 768px) {
+  .page__content .paper-box {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 1.2rem;
+  }
+
+  .page__content .paper-box-image {
+    flex: none;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .page__content .paper-box-text {
+    width: 100%;
+  }
+
+  .page__content .paper-box .badge {
+    left: -6px;
+  }
+}
