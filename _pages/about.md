@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Student in School of Computer Science at Wuhan University, supervised by [Prof. Lefei Zhang](https://scholar.google.com/citations?user=BLKHwNwAAAAJ&hl=en&oi=ao), as part of the [SIGMA Group](https://sigma.whu.edu.cn/). Prior to joining Wuhan University, I received both my B.S. and M.S. degrees from China University of Geosciences (Wuhan), supervised by [Prof. Yanni Dong](https://rsit.whu.edu.cn/about.htm). My research interests focus on <span style="color: #a61b1b; font-weight: 600;">Multimodal Learning</span>, 
+I am a Ph.D. Student in School of Computer Science at Wuhan University, supervised by [Prof. Lefei Zhang](https://scholar.google.com/citations?user=BLKHwNwAAAAJ&hl=en&oi=ao) and [Prof. Zuchao Li](https://zcli-charlie.github.io/), as part of the [SIGMA Group](https://sigma.whu.edu.cn/). Prior to joining Wuhan University, I received both my B.S. and M.S. degrees from China University of Geosciences (Wuhan), supervised by [Prof. Yanni Dong](https://rsit.whu.edu.cn/about.htm). My research interests focus on <span style="color: #a61b1b; font-weight: 600;">Multimodal Learning</span>, 
 <span style="color: #a61b1b; font-weight: 600;">Multimodal Reasoning</span>, and 
 <span style="color: #a61b1b; font-weight: 600;">Text-to-Image Generation</span>. I am open to research collaborations. Please feel free to contact me if you are interested in my work.
 
