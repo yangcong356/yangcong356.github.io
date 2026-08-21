@@ -136,3 +136,23 @@ Attention-Based Dynamic Alignment and Dynamic Distribution Adaptation for Remote
 ======
 - Conference Reviewer: ICCV, ACMMM, ICME.
 - Journal Reviewer: TIP, TNNLS, TCSVT, TMM, TGRS, TMI, TAI.
+
+👥 Visitors
+======
+<div class="footer-visitor-counter">
+  <p class="footer-counter-title">Visitors by Country</p>
+
+  <a
+    href="https://s01.flagcounter.com/more/JDHY"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    <img
+      src="https://s01.flagcounter.com/map/JDHY/size_t/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/"
+      width="250"
+      height="140"
+      alt="Visitor Map"
+      loading="eager"
+    >
+  </a>
+</div>
