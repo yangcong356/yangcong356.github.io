@@ -171,3 +171,15 @@
   margin: 0 auto;
   object-fit: contain;
 }
+
+/* Widen the main content area on desktop */
+@media screen and (min-width: 925px) {
+  #main {
+    width: 100%;
+    max-width: 1500px !important;
+  }
+
+  .page {
+    padding-right: 0 !important;
+  }
+}
