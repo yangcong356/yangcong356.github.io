@@ -134,3 +134,37 @@
     left: -6px;
   }
 }
+
+/* Custom footer */
+.page__footer {
+  margin-top: 2rem;
+  background: transparent !important;
+  border-top: 1px solid #eeeeee;
+}
+
+.page__footer footer {
+  padding: 1.5rem 1rem !important;
+  text-align: center;
+}
+
+.footer-visitor-counter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer-counter-title {
+  margin: 0 0 0.8rem;
+  color: #555555;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.footer-visitor-counter img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
