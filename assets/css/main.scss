@@ -77,20 +77,21 @@
 /* Badge on the image */
 .page__content .paper-box .badge {
   position: absolute;
-  top: 14px;
+  top: 9px;
   left: -12px;
   z-index: 10;
 
-  display: inline-block;
-  padding: 8px 18px;
+  min-width: 140px;
+  padding: 6px 12px;
+  box-sizing: border-box;
+  text-align: center;
 
-  color: #ffffff;
+  color: #fff;
   background: #0645b5;
-  font-size: 0.82rem;
+  font-size: 0.72rem;
   font-weight: 600;
   line-height: 1.2;
   white-space: nowrap;
-
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.18);
 }
 
