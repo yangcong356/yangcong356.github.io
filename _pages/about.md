@@ -19,6 +19,29 @@ I am a Ph.D. Student in School of Computer Science at Wuhan University, supervis
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
+      <div class="badge">Under Review</div>
+      <img
+        src="{{ '/images/publications/adgrpo.png' | relative_url }}"
+        alt="AD-GRPO framework"
+      >
+    </div>
+  </div>
+
+  <div class="paper-box-text" markdown="1">
+
+AD-GRPO: Associative Diversity-Aware GRPO for Multimodal Reasoning
+
+**Cong Yang**, Yuchun Miao, Kangzhe Yuan, Zuchao Li, Lefei Zhang
+
+PDF \| Code
+
+  </div>
+
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
       <div class="badge">IEEE TIP'25</div>
       <img
         src="{{ '/images/publications/kcfi.png' | relative_url }}"
