@@ -42,6 +42,29 @@ PDF \| Code
 <div class="paper-box">
   <div class="paper-box-image">
     <div>
+      <div class="badge">Under Review</div>
+      <img
+        src="{{ '/images/publications/sdcc.png' | relative_url }}"
+        alt="SDCC framework"
+      >
+    </div>
+  </div>
+
+  <div class="paper-box-text" markdown="1">
+
+Semantically Aligned Change Slots for Remote Sensing Image Change Captioning
+
+Yuanzhi Yao, **Cong Yang**, Liang Lv, Jun Wan, Lefei Zhang
+
+PDF \| Code
+
+  </div>
+
+</div>
+
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
       <div class="badge">IEEE TIP'25</div>
       <img
         src="{{ '/images/publications/kcfi.png' | relative_url }}"
